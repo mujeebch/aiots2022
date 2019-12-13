@@ -1,1 +1,2 @@
-# aiots2020.github.io
+# AIoTS.github.io
+AIoTS website
